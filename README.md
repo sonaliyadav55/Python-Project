@@ -1,2 +1,2 @@
 # Python-Project
-In this repository all PYTHON project are uploaded
+In this repository PYTHON project are uploaded
